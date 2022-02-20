@@ -1,5 +1,5 @@
-#Brawl-Stars-v31
-Python Brawl Stars server emulator for version 30 based on Classic Brawl
+Brawl-Stars-v31
+Python Brawl Stars server emulator for version 31 based on Classic Brawl
 
 ### Requirements:
 - Python 3.7 or higher
